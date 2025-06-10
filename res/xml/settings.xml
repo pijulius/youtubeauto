@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+		android:title="@string/settings_general">
+
+		<EditTextPreference
+			android:name="@string/settings_home_url"
+			android:summary="@string/settings_home_url_sum"
+			android:defaultValue="@string/home_url"
+			android:title="@string/settings_home_url" android:key="home_url" />
+
+		<EditTextPreference
+			android:name="@string/settings_search_url"
+			android:summary="@string/settings_search_url_sum"
+			android:defaultValue="@string/search_url"
+			android:title="@string/settings_search_url"
+			android:key="youtube_search_url" />
+
+		<EditTextPreference
+			android:name="@string/settings_website_scaling"
+			android:summary="@string/settings_website_scaling_sum"
+			android:defaultValue="1"
+			android:title="@string/settings_website_scaling"
+			android:key="website_scaling" />
+
+	</PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="bg">#000000</color>
+	<color name="bg_highlight">#272727</color>
+	<color name="bg_press">#272727</color>
+	<color name="bg_active">#000000</color>
+
+	<color name="text">#ffffff</color>
+	<color name="text_highlight">#cccccc</color>
+	<color name="text_press">#ffffff</color>
+	<color name="text_active">#e50000</color>
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+	<string name="app_name">Youtube Auto</string>
+	<string name="service_name">Youtube Auto</string>
+	<string name="back">Back</string>
+	<string name="home">Home</string>
+	<string name="refresh_page">Refresh</string>
+	<string name="search">Search</string>
+	<string name="fullscreen">FullScreen</string>
+	<string name="previous">Previous</string>
+	<string name="play_pause">Play / Pause</string>
+	<string name="next">Next</string>
+	<string name="browse_files">Browse Files</string>
+	<string name="aspect_ratio_contain">Contain</string>
+	<string name="aspect_ratio_fill">Fill</string>
+	<string name="aspect_ratio_cover">Cover</string>
+
+	<string name="home_url">https://www.youtube.com</string>
+	<string name="search_url">https://www.youtube.com/results?search_query=</string>
+
+	<string name="settings">Settings</string>
+	<string name="settings_general">General</string>
+	<string name="settings_home_url">Home URL</string>
+	<string name="settings_home_url_sum">URL to load when launching application or going
+		home.</string>
+	<string name="settings_search_url">Search URL</string>
+	<string name="settings_search_url_sum">URL to use when searching (should
+		end with =)</string>
+	<string name="settings_website_scaling">Website Scalling</string>
+	<string name="settings_website_scaling_sum">Additional scaling of websites 
+		(default 1)</string>
+
+</resources>
