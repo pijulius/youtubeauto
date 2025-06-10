@@ -10,7 +10,7 @@ It uses libVLC for Android version 3.2.6 so it should be able to play almost all
 # IMPORTANT
 For this to work you need the followings:
 1. Developer mode activated in your Android Auto settings on your Phone
-2. Developer mode activated for your Android Auto in your Car (for e.g. CarLink see my [XposedTeyes](https://github.com/pijulius/xposedteyes)) OR just by an [AAWireless](https://www.aawireless.io) dongle and activate Developer Mode in the AAWireless app
+2. Developer mode activated for your Android Auto in your Car (for e.g. CarLink see my [XposedTeyes](https://github.com/pijulius/xposedteyes)) OR just buy an [AAWireless](https://www.aawireless.io) dongle and activate Developer Mode in the AAWireless app
 
 # Thanks to!
 1. [YoutubeAuto](https://github.com/hsg210/YoutubeAuto) by @hsg210
